@@ -2,6 +2,10 @@
   "name": "yjj-cli",
   "version": "0.1.0",
   "description": "a custom cli",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/chouensei/hbFE-cli"
+	},
   "scripts": {},
   "bin": {
     "yjj": "./bin/index.js"
