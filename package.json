@@ -1,13 +1,13 @@
 {
-  "name": "my-cli",
-  "version": "1.0.0",
+  "name": "yjj-cli",
+  "version": "0.1.0",
   "description": "a custom cli",
   "scripts": {},
   "bin": {
-    "coffee-shop": "./bin/index.js"
+    "yjj": "./bin/index.js"
   },
-  "author": "yj",
-  "license": "MIT",
+  "author": "yj7777",
+  "license": "ISC",
   "dependencies": {
     "colors": "^1.3.3",
     "commander": "^2.20.0",
